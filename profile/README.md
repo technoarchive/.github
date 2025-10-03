@@ -4,4 +4,4 @@ mostly for old huds i manage to find, maybe some get updated. or maybe i move hu
 
 who knows.......
 
-for anything: ping me in [huds.tf discord server](https://discord.gg/Y5vUPyyGVP) (i'm most active there)
+for anything: ping me (@techno) in [huds.tf discord server](https://discord.gg/Y5vUPyyGVP) (i'm most active there)
