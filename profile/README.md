@@ -1,6 +1,6 @@
 # technoarchive
 
-mostly for old huds i manage to find, maybe some get updated. or maybe i move huds here in the future that arent related
+mostly for miscellaneous things: old huds i manage to find, lesser important one-off edits, or maybe i move huds here in the future that arent related
 
 who knows.......
 
